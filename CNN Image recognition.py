@@ -1,7 +1,7 @@
 #Data set from https://drive.google.com/open?id=1H2ffQeyl5C5U1zhPbZl40tdH2bvWVdTR
 
 # Convolutional Neural Network
-
+#Installing the deep learning libraries 
 # Installing Theano
 # pip install Theano
 
